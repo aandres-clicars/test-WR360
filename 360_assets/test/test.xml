@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/5069JHH_0.jpg" />
+    <userInterface showZoomButtons="true" showToolTips="true" showHotspotsButton="false" showFullScreenButton="false" showTogglePlayButton="true" showArrows="true" toolbarAlign="center" toolbarBackColor="transparent" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="false" showFullScreenToolbar="false" fullScreenBackColor="#FFFFFF" toolbarPosition="0" customCursorClass="default_cursor" viewerHint="" toolbarAutohide="false" showToolbarOnLoadStart="true" />
+    <control dragSpeed="0.13" doubleClickZooms="true" disableMouseControl="false" showHighresOnFullScreen="true" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="true" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" zoomSteps="1" zoomSpeed="300" singleClickZooms="true" pauseOnPreload="false" resumePreloadOnHover="false" mouseWheelDrag="false" mouseWheelDragZoomOnly="false" allowRotateInputInZoom="false" allowPanX="true" allowPanY="true" />
+    <rotation firstImage="0" rotate="false" rotatePeriod="7" bounce="false" rotateDirection="-1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" rowsOnSingleIndex="false" flipAxis="false" />
+  </settings>
+  <hotspots>
+    <hotspot id="ruedadelantedcha" renderMode="3" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true">
+      <spotinfo src="images/spots/rueda.jpg" lbxBackCover="true" />
+    </hotspot>
+    <hotspot id="ruedatraseradcha" renderMode="3" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true">
+      <spotinfo src="images/spots/rueda.jpg" imgBkColor="#3C3C3C" lbxBackCover="true" />
+    </hotspot>
+    <hotspot id="maletero" renderMode="3" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true">
+      <spotinfo src="images/spots/maletero.jpg" lbxBackCover="true" />
+    </hotspot>
+    <hotspot id="capo" renderMode="3" indicatorImage="circ-cross-thin-blue.svg" activateOnClick="true">
+      <spotinfo src="images/spots/capo.jpg" lbxBackCover="true" />
+    </hotspot>
+  </hotspots>
+  <images rows="1" highresWidth="3763" highresHeight="2509">
+    <image src="images/5069JHH_0.jpg">
+      <hotspot source="ruedatraseradcha" offsetX="329" offsetY="262" />
+      <hotspot source="maletero" offsetX="163" offsetY="169" />
+      <highres src="images/highres/5069JHH_0.jpg" />
+    </image>
+    <image src="images/5069JHH_1.jpg">
+      <hotspot source="ruedatraseradcha" offsetX="271" offsetY="263" />
+      <hotspot source="maletero" offsetX="111" offsetY="163" />
+      <highres src="images/highres/5069JHH_1.jpg" />
+    </image>
+    <image src="images/5069JHH_2.jpg">
+      <hotspot source="ruedadelantedcha" offsetX="489" offsetY="224" />
+      <hotspot source="ruedatraseradcha" offsetX="217" offsetY="258" />
+      <hotspot source="maletero" offsetX="83" offsetY="162" />
+      <highres src="images/highres/5069JHH_2.jpg" />
+    </image>
+    <image src="images/5069JHH_3.jpg">
+      <hotspot source="ruedadelantedcha" offsetX="496" offsetY="235" />
+      <hotspot source="ruedatraseradcha" offsetX="174" offsetY="254" />
+      <hotspot source="maletero" offsetX="62" offsetY="158" />
+      <highres src="images/highres/5069JHH_3.jpg" />
+    </image>
+    <image src="images/5069JHH_4.jpg">
+      <hotspot source="ruedadelantedcha" offsetX="493" offsetY="241" />
+      <hotspot source="ruedatraseradcha" offsetX="141" offsetY="247" />
+      <hotspot source="maletero" offsetX="59" offsetY="157" />
+      <highres src="images/highres/5069JHH_4.jpg" />
+    </image>
+    <image src="images/5069JHH_5.jpg">
+      <hotspot source="ruedadelantedcha" offsetX="475" offsetY="252" />
+      <hotspot source="ruedatraseradcha" offsetX="122" offsetY="238" />
+      <hotspot source="capo" offsetX="491" offsetY="173" />
+      <highres src="images/highres/5069JHH_5.jpg" />
+    </image>
+    <image src="images/5069JHH_6.jpg">
+      <hotspot source="ruedadelantedcha" offsetX="439" offsetY="261" />
+      <hotspot source="ruedatraseradcha" offsetX="118" offsetY="231" />
+      <hotspot source="capo" offsetX="493" offsetY="175" />
+      <highres src="images/highres/5069JHH_6.jpg" />
+    </image>
+    <image src="images/5069JHH_7.jpg">
+      <hotspot source="ruedadelantedcha" offsetX="389" offsetY="267" />
+      <hotspot source="ruedatraseradcha" offsetX="128" offsetY="222" />
+      <hotspot source="capo" offsetX="482" offsetY="189" />
+      <highres src="images/highres/5069JHH_7.jpg" />
+    </image>
+    <image src="images/5069JHH_8.jpg">
+      <hotspot source="ruedadelantedcha" offsetX="326" offsetY="269" />
+      <hotspot source="ruedatraseradcha" offsetX="140" offsetY="218" />
+      <hotspot source="capo" offsetX="444" offsetY="187" />
+      <highres src="images/highres/5069JHH_8.jpg" />
+    </image>
+    <image src="images/5069JHH_9.jpg">
+      <hotspot source="ruedadelantedcha" offsetX="259" offsetY="271" />
+      <hotspot source="capo" offsetX="408" offsetY="190" />
+      <highres src="images/highres/5069JHH_9.jpg" />
+    </image>
+    <image src="images/5069JHH_10.jpg">
+      <hotspot source="capo" offsetX="342" offsetY="192" />
+      <highres src="images/highres/5069JHH_10.jpg" />
+    </image>
+    <image src="images/5069JHH_11.jpg">
+      <hotspot source="capo" offsetX="264" offsetY="193" />
+      <highres src="images/highres/5069JHH_11.jpg" />
+    </image>
+    <image src="images/5069JHH_12.jpg">
+      <hotspot source="capo" offsetX="203" offsetY="188" />
+      <highres src="images/highres/5069JHH_12.jpg" />
+    </image>
+    <image src="images/5069JHH_13.jpg">
+      <hotspot source="capo" offsetX="145" offsetY="186" />
+      <highres src="images/highres/5069JHH_13.jpg" />
+    </image>
+    <image src="images/5069JHH_14.jpg">
+      <hotspot source="capo" offsetX="105" offsetY="186" />
+      <highres src="images/highres/5069JHH_14.jpg" />
+    </image>
+    <image src="images/5069JHH_15.jpg">
+      <hotspot source="capo" offsetX="103" offsetY="180" />
+      <highres src="images/highres/5069JHH_15.jpg" />
+    </image>
+    <image src="images/5069JHH_16.jpg">
+      <hotspot source="capo" offsetX="98" offsetY="176" />
+      <highres src="images/highres/5069JHH_16.jpg" />
+    </image>
+    <image src="images/5069JHH_17.jpg">
+      <hotspot source="capo" offsetX="103" offsetY="173" />
+      <highres src="images/highres/5069JHH_17.jpg" />
+    </image>
+    <image src="images/5069JHH_18.jpg">
+      <hotspot source="capo" offsetX="97" offsetY="173" />
+      <highres src="images/highres/5069JHH_18.jpg" />
+    </image>
+    <image src="images/5069JHH_19.jpg">
+      <hotspot source="maletero" offsetX="541" offsetY="160" />
+      <highres src="images/highres/5069JHH_19.jpg" />
+    </image>
+    <image src="images/5069JHH_20.jpg">
+      <hotspot source="maletero" offsetX="529" offsetY="165" />
+      <highres src="images/highres/5069JHH_20.jpg" />
+    </image>
+    <image src="images/5069JHH_21.jpg">
+      <hotspot source="maletero" offsetX="503" offsetY="165" />
+      <highres src="images/highres/5069JHH_21.jpg" />
+    </image>
+    <image src="images/5069JHH_22.jpg">
+      <hotspot source="maletero" offsetX="463" offsetY="168" />
+      <highres src="images/highres/5069JHH_22.jpg" />
+    </image>
+    <image src="images/5069JHH_23.jpg">
+      <hotspot source="maletero" offsetX="394" offsetY="168" />
+      <highres src="images/highres/5069JHH_23.jpg" />
+    </image>
+    <image src="images/5069JHH_24.jpg">
+      <hotspot source="maletero" offsetX="305" offsetY="171" />
+      <highres src="images/highres/5069JHH_24.jpg" />
+    </image>
+    <image src="images/5069JHH_25.jpg">
+      <hotspot source="maletero" offsetX="228" offsetY="171" />
+      <highres src="images/highres/5069JHH_25.jpg" />
+    </image>
+  </images>
+</config>
